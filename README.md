@@ -6,8 +6,8 @@ Analysis performance based on Kickstarter Campaign data
 ## Overview of Project
   Using Lousie's Kickstarter Campaign data, onw qill be able to analyze the data while working through excel to create conclusions and analyze theater outcomes and compare it to the launch data and goals. 
 
-### Purpose
-      The purpose of this project was to analyze various kickstarters from Lousie's campaign data   lauch dates and goals. To succesfully analyze the data, one must go through module 1 on the UCB Bootcamp canvas site. 
+##Purpose
+The purpose of this project was to analyze various kickstarters from Lousie's campaign data   lauch dates and goals. To succesfully analyze the data, one must go through module 1 on the UCB Bootcamp canvas site. 
 
 ## Analysis and Challenges
 I perfromed my analysis using excel with the data provided. 
